@@ -1,0 +1,17 @@
+
+/* responsive.css */
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: #ccc;
+    }
+
+    header, footer {
+        text-align: left;
+        padding: 0.5em;
+    }
+
+    nav ul li {
+        display: block;
+        margin-bottom: 5px;
+    }
+}
